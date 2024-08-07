@@ -32,6 +32,11 @@ Software Engineer
 ### Badges
 
 <b>My GitHub Stats</b>
+<div align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vicliger&theme=windows-dark&border_radius=10&locale=pt_BR&date_format=j%20M%5B%20Y%5D&card_width=900&card_height=200)](https://git.io/streak-stats)
+
+</div>
 
 <a href="http://www.github.com/erickpereir0"><img src="https://github-readme-stats.vercel.app/api?username=erickpereir0&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&show_icons=true" alt="erickpereir0's GitHub stats" /></a>
 
