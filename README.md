@@ -12,7 +12,7 @@ Software Engineer
 * ⚡  I am the boy prodigy or as everyone knows the Robin
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=1E90FF&center=true&vCenter=true&random=false&width=1000&lines=skills)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=1000&lines=skills)](https://git.io/typing-svg)
 
 
 <p align="left">
@@ -21,7 +21,7 @@ Software Engineer
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=1E90FF&center=true&vCenter=true&random=false&width=1000&lines=Socials)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=1000&lines=Socials)](https://git.io/typing-svg)
 
 <div align="center">
 
@@ -32,7 +32,7 @@ Software Engineer
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=1E90FF&center=true&vCenter=true&random=false&width=1000&lines=Badges)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=1000&lines=Badges)](https://git.io/typing-svg)
 
 <div align="center">My GitHub Stats</div>
 <div align="center">
