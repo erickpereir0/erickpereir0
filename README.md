@@ -34,7 +34,7 @@ Software Engineer
 <b>My GitHub Stats</b>
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vicliger&theme=windows-dark&border_radius=10&locale=pt_BR&date_format=j%20M%5B%20Y%5D&card_width=900&card_height=200)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=erickpereir0&theme=windows-dark&border_radius=10&locale=pt_BR&date_format=j%20M%5B%20Y%5D&card_width=900&card_height=200)](https://git.io/streak-stats)
 
 </div>
 
