@@ -28,13 +28,9 @@
     <img src="https://www.gitskins.com/api/section/projects?username=erickpereir0&theme=github-dark" alt="erickpereir0 projects section" />
   </picture>
 </p>
-Animated year-long contribution calendar.
-Contact and social links will appear here.
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=erickpereir0&theme=github-dark&mode=light" />
     <img src="https://www.gitskins.com/api/section/social?username=erickpereir0&theme=github-dark" alt="erickpereir0 social section" />
   </picture>
 </p>
-
-<!-- Sections: Header, About Me, Skills, GitHub Stats, Projects, Heatmap, Connect -->
